@@ -1,0 +1,7 @@
+ชื่อ-สกุล: นายกัมปนาท ช่วยสถิตย์
+ระดับชั้น: ปวส.1/2
+แผนกวิชา: เทคโนโลยีสารสนเทศ
+เลขที่: 69319010012
+วันที่สอบ: 14 กันยายน 2569
+ชื่อ Repository: devops-final-exam-student
+ลิงก์ GitHub Repository: https://github.com/istruepro-arch/devops-final-exam-student
